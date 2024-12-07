@@ -1,4 +1,4 @@
 # esp32 IoT
 
-This repository contains Microphython for **esp32**.
+This repository contains Micropython for **esp32**.
 
